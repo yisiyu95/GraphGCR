@@ -5,6 +5,13 @@ by Siyu Yi, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Chong Chen, Xian-Sheng H
 
 The proposed GraphGCR is implemented with python 3.9.7 on a NVIDIA 2204 GPU. 
 
+Python package information is summarized as
+
+- torch == 1.10.1
+- numpy == 1.21.2
+- scipy == 1.9.1
+- torch_geometric == 1.7.1
+
 To reproduce the results, unzip the `datasets.zip` and create a `result` folder, then run `run.py`.
 
 For questions, comments, or remarks about the code please contact Siyu Yi (siyuyi@scu.edu.cn). If you find this repository useful to your research or work, it is really appreciate to star this repository.
