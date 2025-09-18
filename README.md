@@ -1,5 +1,7 @@
 # GraphGCR
 
+<img width="1844" height="684" alt="image" src="https://github.com/user-attachments/assets/f4202bec-94b9-45fe-a0fe-1da9bc92f145" />
+
 An official source code for paper "**Learning Generalizable Contrastive Representations for Graph Zero-shot Learning**" [[pdf]](https://ieeexplore.ieee.org/abstract/document/11125500) [Accepted by TMM] 
 by Siyu Yi, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Yongdao Zhou, Ming Zhang, and Wei Ju.
 
